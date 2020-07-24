@@ -7,8 +7,9 @@
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
   "author": "Adem Mohammed",
-  "license": "AASTU",
+  "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.2"
-  }
+  },
+  "devDependencies": {}
 }
