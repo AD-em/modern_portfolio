@@ -141,7 +141,8 @@ header {
 
 main {
   padding: 4rem;
-  height: calc(100vh - 3.75rem); }
+  height: 100%;
+  margin-bottom: -3.75rem; }
   main .icons {
     margin-top: 1rem; }
     main .icons a {
